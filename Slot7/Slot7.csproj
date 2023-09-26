@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Slot7.Program_PassingDelegate</StartupObject>
+    <StartupObject>Slot7.Program_Lambdas</StartupObject>
   </PropertyGroup>
 
 </Project>
